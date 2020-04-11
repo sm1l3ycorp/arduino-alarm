@@ -5,4 +5,4 @@ Components: Arduino Uno, Ultrasonic Sensor, Red LED, Buzzer
 
 Arduino IDE
 C++
-<img src="capture.PNG" height="400" /> 
+<img src="Capture.PNG" height="400" /> 
